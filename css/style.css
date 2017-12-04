@@ -1,5 +1,5 @@
 body {
-  background-image: url(../images/background.png);
+  background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
   margin: 0;
   background-size: cover;
@@ -112,6 +112,7 @@ main {
   margin: 0 auto;
   background-color: #ffffff;
   padding: 60px;
+  font-family: 'Pathway Gothic One', sans-serif;
 }
 
 .column {
@@ -276,6 +277,7 @@ footer {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  font-family: 'Pathway Gothic One', sans-serif;
 }
 
 footer>div>ul {
